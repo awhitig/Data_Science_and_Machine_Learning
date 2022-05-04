@@ -6,15 +6,15 @@ Included will be a collection of supervised learning methods as well as a few un
 # Topics 
 
 1. Simple Perceptron (Supervised)
-2. Multi-layer neural network
-3. K-Nearest Neighbors
-4. Decison Trees
-5. Regression Trees
-6. Random Forest
-7. Bagging
-8. Boosting
-9. PCA
-10. K-Means
+2. Multi-layer neural network (Supervised)
+3. K-Nearest Neighbors (Supervised)
+4. Decison Trees (Supervised)
+5. Regression Trees (Supervised)
+6. Random Forest (Supervised)
+7. Bagging (Supervised)
+8. Boosting (Supervised)
+9. PCA (Unsupervised)
+10. K-Means (Unsupervised)
 
 # Tools
 
