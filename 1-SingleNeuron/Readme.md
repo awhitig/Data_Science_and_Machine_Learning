@@ -9,4 +9,4 @@ Packages Used:
 4. mlxtend
 5. sklearn
 
-The dataset citrus.csv used for the example can also be found within this folder.
+The dataset used in the example is the citrus.csv file that can be found within this folder. The file contians 10000 instances of oranges and grapefruits with the attributes diameter, weight, red, green, and blue. The dataset was obtained from Kaggle.com as a CSV. For model performance comparison note that this dataset is also used for the implementation of the multi-layer network and Principal Components Analysis.
