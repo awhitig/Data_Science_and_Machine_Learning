@@ -1,7 +1,7 @@
 # Data_Science_and_Machine_Learning
 This is a repository of machine learning techniques/algorithms for the course INDE-577 Data Science and Machine Learning at Rice University for the Spring 2022 semester by Andrew Whitig (MSTAT). 
 
-Included will be a collection of supervised learning methods as well as a few unsupervised learning methods applied to various data sets ubtained from Kaggle.com.
+Included will be a collection of supervised learning methods as well as a few unsupervised learning methods applied to various data sets obtained from Kaggle.com.
 
 # Topics 
 
