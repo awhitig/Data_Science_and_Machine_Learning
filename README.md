@@ -8,7 +8,7 @@ Included will be a collection of supervised learning methods as well as a few un
 1. Simple Perceptron (Supervised)
 2. Multi-layer neural network (Supervised)
 3. K-Nearest Neighbors (Supervised)
-4. Decison Trees, Regression Trees (Supervised)
+4. Decison Trees and Regression Trees (Supervised)
 5. Bagging and Boosting (Supervised)
 6. PCA (Unsupervised)
 7. K-Means (Unsupervised)
